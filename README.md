@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**PandI-T24/PandI-T24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# れい
 
-Here are some ideas to get you started:
+理学療法学科の学生です。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 興味のある分野
+
+- Unity
+- Blender
+- Webアプリ開発
+- AI活用
+- 医療 × IT
+
+## 制作中
+
+- 大学リハビリ棟の3D探検ゲーム
+
+## GitHubについて
+
+学習記録や制作物を公開しています。
